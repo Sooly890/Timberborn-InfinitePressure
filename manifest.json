@@ -1,0 +1,10 @@
+{
+  "Name": "Infinite Pressure",
+  "Version": "1.0.0.0",
+  "Id": "Sooly890.InfinitePressure",
+  "MinimumGameVersion": "1.1.0.0",
+  "Description": "Unlimited PRESSURE",
+  "RequiredMods": [
+    { "Id": "Harmony" }
+  ]
+}
